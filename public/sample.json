@@ -1,0 +1,133 @@
+{
+  "theme": "Liam is texting his ex-girlfriend, Zoe, after he saw her posting about a new guy on social media. He’s feeling jealous and unsure about whether to confess he still has feelings for her, as their breakup was messy and unresolved.",
+  "participants": {
+    "participant1": {
+      "name": "Liam",
+      "personality": "Emotional and conflicted, he tends to overthink and get sentimental in texts. Uses long messages to express his feelings."
+    },
+    "participant2": {
+      "name": "Zoe",
+      "personality": "Confident and assertive, Zoe is direct in her texts. She rarely sugarcoats things and prefers to keep conversations straightforward."
+    }
+  },
+  "total_messages": 29,
+  "generated_at": "2025-08-13T22:55:34.671094",
+  "messages": [
+    {
+      "sender": "Liam",
+      "content": "Hey Zoe... saw ur post about that new guy. 😬"
+    },
+    {
+      "sender": "Zoe",
+      "content": "Oh? U stalking me now? 😂"
+    },
+    {
+      "sender": "Liam",
+      "content": "Nah, just popped up on my feed. What’s his deal?"
+    },
+    {
+      "sender": "Zoe",
+      "content": "Just vibing, we’re having fun. Why?"
+    },
+    {
+      "sender": "Liam",
+      "content": "I mean, it hit different seeing u with someone else."
+    },
+    {
+      "sender": "Zoe",
+      "content": "C'mon, it’s been forever. U good?"
+    },
+    {
+      "sender": "Liam",
+      "content": "Yeah, just... makes me think. Like, about us."
+    },
+    {
+      "sender": "Zoe",
+      "content": "Wym? We ended it for a reason."
+    },
+    {
+      "sender": "Liam",
+      "content": "I know, but we had some good times, right? 🤷‍♂️"
+    },
+    {
+      "sender": "Zoe",
+      "content": "Yeah, but it got messy, like... really messy."
+    },
+    {
+      "sender": "Liam",
+      "content": "Right, but I still have feelings, tbh. 😬"
+    },
+    {
+      "sender": "Zoe",
+      "content": "That’s kinda unexpected. But also, valid."
+    },
+    {
+      "sender": "Liam",
+      "content": "No no no, don’t be nice. Am I just being cringe?"
+    },
+    {
+      "sender": "Zoe",
+      "content": "Nah, being honest is good. But what now, king?"
+    },
+    {
+      "sender": "Liam",
+      "content": "Idk... just wanted to say it. Maybe I regret some stuff."
+    },
+    {
+      "sender": "Zoe",
+      "content": "Regret’s a heavy word, bro. We move on."
+    },
+    {
+      "sender": "Liam",
+      "content": "True, but... like, I still think about u."
+    },
+    {
+      "sender": "Zoe",
+      "content": "It’s complicated, though. We’re in different places."
+    },
+    {
+      "sender": "Liam",
+      "content": "Yeah, that’s valid. Just wanted u to know. 🫶🏻"
+    },
+    {
+      "sender": "Zoe",
+      "content": "Appreciate the honesty. Seriously."
+    },
+    {
+      "sender": "Liam",
+      "content": "So, how’s that guy? Like, does he know u?"
+    },
+    {
+      "sender": "Zoe",
+      "content": "We’re just having fun, no labels. Chill."
+    },
+    {
+      "sender": "Liam",
+      "content": "Cool cool... Just wanted to know. No cap."
+    },
+    {
+      "sender": "Zoe",
+      "content": "Fair enough. U good with everything now?"
+    },
+    {
+      "sender": "Liam",
+      "content": "Getting there, I guess. Thanks for listening. ❤️"
+    },
+    {
+      "sender": "Zoe",
+      "content": "Always. Just touch grass & focus on u, okay?"
+    },
+    {
+      "sender": "Liam",
+      "content": "Bet! I’ll try to vibe more. 😅"
+    },
+    {
+      "sender": "Zoe",
+      "content": "Good! Stay awesome, Liam. ✨"
+    },
+    {
+      "sender": "Liam",
+      "content": "You too, Zoe. Take care! ❤️‍🔥"
+    }
+  ]
+}
